@@ -1,0 +1,38 @@
+﻿@model WebSocketServer.Models.DirectoryInfoViewModel
+@{
+    ViewData["Title"] = "Directory List";
+}
+
+<h2>@ViewBag.Title</h2>
+
+<form asp-action="Index" asp-controller="Home" asp-antiforgery="true">
+    <p>
+        Enter Directory Path: 
+        <input type="text" name="Path" class="form-control"/>
+    </p>
+    <p>
+        <input type="submit" value="Submit" class="btn btn-primary"/>
+    </p>
+</form>
+
+    <h3>Directories:</h3>
+    <ul>
+        @foreach (var directory in Model.Directories)
+        {
+            <li>@directory</li>
+        }
+    </ul>
+
+  <h3>Files:</h3>
+    <ul>
+        @foreach (var file in Model.Files)
+        {
+            <li>@file</li>
+        }
+    </ul>
+
+<br/>
+<h3>Counts:</h3>
+<p>Directories: @Model.CountDirectories()</p>
+<p>Files: @Model.CountFiles()</p>
+

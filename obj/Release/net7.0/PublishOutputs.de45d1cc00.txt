@@ -1,0 +1,12 @@
+/home/andriikhalin/University/AUX-OC/LB1/WebSocketServer/WebSocketServer/bin/Release/net7.0/publish/WebSocketServer
+/home/andriikhalin/University/AUX-OC/LB1/WebSocketServer/WebSocketServer/bin/Release/net7.0/publish/appsettings.Development.json
+/home/andriikhalin/University/AUX-OC/LB1/WebSocketServer/WebSocketServer/bin/Release/net7.0/publish/appsettings.json
+/home/andriikhalin/University/AUX-OC/LB1/WebSocketServer/WebSocketServer/bin/Release/net7.0/publish/WebSocketServer.dll
+/home/andriikhalin/University/AUX-OC/LB1/WebSocketServer/WebSocketServer/bin/Release/net7.0/publish/WebSocketServer.deps.json
+/home/andriikhalin/University/AUX-OC/LB1/WebSocketServer/WebSocketServer/bin/Release/net7.0/publish/WebSocketServer.runtimeconfig.json
+/home/andriikhalin/University/AUX-OC/LB1/WebSocketServer/WebSocketServer/bin/Release/net7.0/publish/WebSocketServer.pdb
+/home/andriikhalin/University/AUX-OC/LB1/WebSocketServer/WebSocketServer/bin/Release/net7.0/publish/Microsoft.Extensions.Configuration.Binder.dll
+/home/andriikhalin/University/AUX-OC/LB1/WebSocketServer/WebSocketServer/bin/Release/net7.0/publish/Microsoft.Extensions.Hosting.dll
+/home/andriikhalin/University/AUX-OC/LB1/WebSocketServer/WebSocketServer/bin/Release/net7.0/publish/Microsoft.Extensions.Hosting.Systemd.dll
+/home/andriikhalin/University/AUX-OC/LB1/WebSocketServer/WebSocketServer/bin/Release/net7.0/publish/Microsoft.Extensions.Options.dll
+/home/andriikhalin/University/AUX-OC/LB1/WebSocketServer/WebSocketServer/bin/Release/net7.0/publish/runtimes/win/lib/net7.0/System.Diagnostics.EventLog.Messages.dll

@@ -1,0 +1,9 @@
+﻿[Unit]
+Description=my test app
+
+[Service]
+Type=notify
+ExecStart=/WebSocketServer/bin/Debug/net7.0/WebSocketServer.dll
+test
+[Install]
+WantedBy=multi-user.target
